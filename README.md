@@ -1,6 +1,6 @@
 ## Architect and deploy tomcat application and dependencies on AWS EC2 instances
 
-### Based on [vprofile project from ](https://github.com/devopshydclub/vprofile-project/tree/aws-LiftAndShift) from ongoig DevOps course on Udemy.
+### Based on [vprofile project ](https://github.com/devopshydclub/vprofile-project/tree/aws-LiftAndShift) from ongoing DevOps course on Udemy.
 
 I improved the scripts and made some from scratch since some of them are outdated and services won't install on EC2 instances.
 
