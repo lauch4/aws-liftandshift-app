@@ -3,7 +3,7 @@
 
 #Aprovisionamiento de RabbitMQ
 sudo update-crypto-policies --set LEGACY
-sudo reboot
+sudo reboot #??? 
 
 ## We will install RabbitMQ with a YUM repository that contains the package.
 sudo dnf -y install wget
